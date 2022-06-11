@@ -1,0 +1,139 @@
+.todoContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+    0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+.tasksList {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*.todoInputContainer {*/
+/*    position: relative;*/
+/*    border-bottom: 1px solid #ededed;*/
+/*}*/
+/*.todoInput {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*    padding: 16px 16px 16px 60px;*/
+/*    border: none;*/
+/*    background: rgba(0, 0, 0, 0.003);*/
+/*    width: 100%;*/
+/*    box-sizing: border-box;*/
+/*    font-size: 28px;*/
+/*    box-shadow: inset 0 -2px 40px rgba(0,0,0,0.03);*/
+/*    outline: none;*/
+/*}*/
+
+/*.btnPlus {*/
+/*    position: absolute;*/
+/*    font-size: 24px;*/
+/*    top: 50%;*/
+/*    transform: translateY(-50%) rotate(90deg);*/
+/*    left: 20px;*/
+/*    border: none;*/
+/*    background-color: rgba(0, 0, 0, 0.003);*/
+/*    color: #ccc;*/
+/*}*/
+
+/*.todoInput::-webkit-input-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*}*/
+/*.todoInput::-moz-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*}*/
+/*.todoInput:-moz-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*}*/
+/*.todoInput:-ms-input-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*}*/
+
+/*.todoInput.error::-webkit-input-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*    color: red;*/
+/*}*/
+/*.todoInput.error::-moz-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*    color: red;*/
+/*}*/
+/*.todoInput.error:-moz-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*    color: red;*/
+/*}*/
+/*.todoInput.error:-ms-input-placeholder {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*    color: red;*/
+/*}*/
+
+
+/*.task {*/
+/*    font-size: 24px;*/
+/*    border-bottom: 1px solid #ededed;*/
+/*    min-height: 60px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    list-style: none;*/
+/*    padding: 0 16px 0 60px;*/
+/*    justify-content: space-between;*/
+/*    position: relative;*/
+/*}*/
+
+/*.text {*/
+/*    font-family: 'Indie Flower', cursive;*/
+/*}*/
+
+/*.completed {*/
+/*    text-decoration: line-through;*/
+/*    color: #ccc;*/
+/*}*/
+
+/*.checkbox {*/
+/*    position: absolute;*/
+/*    left: 20px;*/
+/*}*/
+
+/*.amount {*/
+/*    font-size: 13.3333px;*/
+/*}*/
+
+/*.btnGroup {*/
+/*    position: relative;*/
+/*}*/
+
+/*.filterBtn {*/
+/*    margin: 3px;*/
+/*    padding: 3px 7px;*/
+/*    border: 1px solid transparent;*/
+/*    border-radius: 3px;*/
+/*    background-color: transparent;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.filterBtn:hover,*/
+/*.filterBtn.active {*/
+/*    border-color: rgba(175, 47, 47, 0.2);*/
+/*}*/
+
+/*.footer{*/
+/*    position: relative;*/
+/*    min-height: 50px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    padding: 0 6px 0 21px;*/
+/*    justify-content: space-between;*/
+/*    content: '';*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*    left: 0;*/
+/*    height: 50px;*/
+/*    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2),*/
+/*    0 8px 0 -3px #f6f6f6,*/
+/*    0 9px 1px -3px rgba(0, 0, 0, 0.2),*/
+/*    0 16px 0 -6px #f6f6f6,*/
+/*    0 17px 2px -6px rgba(0, 0, 0, 0.2);*/
+/*}*/
